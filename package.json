@@ -9,7 +9,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ksxatompackages/ksxatomsupports.git"
+    "url": "https://github.com/ksxnodemodules/ksxatomsupports.git"
   },
   "dependencies": {},
   "engines": {
@@ -20,9 +20,9 @@
     "lib/"
   ],
   "bugs": {
-    "url": "https://github.com/ksxatompackages/ksxatomsupports/issues"
+    "url": "https://github.com/ksxnodemodules/ksxatomsupports/issues"
   },
-  "homepage": "https://github.com/ksxatompackages/ksxatomsupports#readme",
+  "homepage": "https://github.com/ksxnodemodules/ksxatomsupports",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
