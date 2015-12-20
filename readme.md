@@ -9,3 +9,7 @@ This is a NodeJS module for creating an [atom](https://atom.io) [package](https:
  - Simple Pane Item helper
  - Menu utility
  - Configuration utility
+
+## Requirements
+ - ECMAScript 6 Syntax
+ - Atom Editor environment
