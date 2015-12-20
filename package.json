@@ -1,35 +1,35 @@
 {
-  "name": "ksxatomsupports",
-  "description": "Some utilities for creating Atom Packages, use this as a node module",
-  "version": "1.0.0",
-  "author": "Hoàng Văn Khải <hvksmr1996@gmail.com>",
-  "contributors": [
-    "Hoàng Văn Khải <hvksmr1996@gmail.com>"
-  ],
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ksxnodemodules/ksxatomsupports.git"
-  },
-  "dependencies": {},
-  "engines": {
-    "node": ">=4.9.0"
-  },
-  "files": [
-    "index.js",
-    "lib/"
-  ],
-  "bugs": {
-    "url": "https://github.com/ksxnodemodules/ksxatomsupports/issues"
-  },
-  "homepage": "https://github.com/ksxnodemodules/ksxatomsupports",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "ksxatomsupports",
-    "atom",
-    "atom-package"
-  ]
+	"name": "ksxatomsupports",
+	"description": "Some utilities for creating Atom Packages, use this as a node module",
+	"version": "1.0.1",
+	"author": "Hoàng Văn Khải <hvksmr1996@gmail.com>",
+	"contributors": [
+		"Hoàng Văn Khải <hvksmr1996@gmail.com>"
+	],
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ksxnodemodules/ksxatomsupports.git"
+	},
+	"dependencies": {},
+	"engines": {
+		"node": ">=4.9.0"
+	},
+	"files": [
+		"index.js",
+		"lib/"
+	],
+	"bugs": {
+		"url": "https://github.com/ksxnodemodules/ksxatomsupports/issues"
+	},
+	"homepage": "https://github.com/ksxnodemodules/ksxatomsupports",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"ksxatomsupports",
+		"atom",
+		"atom-package"
+	]
 }
