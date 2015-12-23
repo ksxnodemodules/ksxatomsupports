@@ -1,7 +1,7 @@
 {
 	"name": "ksxatomsupports",
 	"description": "Some utilities for creating Atom Packages, use this as a node module",
-	"version": "1.0.5",
+	"version": "1.0.6",
 	"author": "Hoàng Văn Khải <hvksmr1996@gmail.com>",
 	"contributors": [
 		"Hoàng Văn Khải <hvksmr1996@gmail.com>"
