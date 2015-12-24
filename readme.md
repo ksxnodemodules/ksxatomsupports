@@ -16,4 +16,4 @@ This is a NodeJS module for creating an [atom](https://atom.io) [package](https:
 
 ## Packages which uses this module
 By the way, create a pull request [here](https://github.com/ksxnodemodules/ksxatomsupports/blob/master/readme.md) if you want to list your project in this readme.md
- - [command-executer](https://github.com/ksxatompackages/cmd-exec.git)
+ - [command-executor](https://github.com/ksxatompackages/cmd-exec.git)
